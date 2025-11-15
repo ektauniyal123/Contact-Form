@@ -1,4 +1,4 @@
-💬 Responsive Contact Form
+Contact Form
 
 A modern, responsive Contact Form built using HTML5, CSS3, and Font Awesome.
 This project features a clean dark-themed UI with subtle animations, input icons, and responsive design for all screen sizes.
